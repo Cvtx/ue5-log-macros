@@ -8,6 +8,7 @@ Usage example:
 ```cpp
 #pragma once
 
+#include "CoreMinimal.h"
 #include "LogMacros.h"
 
 #include "MyClass.generated.h"
