@@ -14,7 +14,7 @@ Usage example:
 #include "MyClass.generated.h"
 
 UCLASS()
-class UMyClass : UObject
+class UMyClass : public UObject
 {
 
   GENERATED_BODY()
