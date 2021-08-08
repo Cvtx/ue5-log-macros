@@ -1,5 +1,5 @@
-# ue4-log-macros
-A single header file with useful macros for logging in Unreal Engine 4 projects.
+# ue5-log-macros
+A single header file with useful macros for logging in Unreal Engine projects.
 These macros expand usage of standart UE_LOG macro.
 Macros with _PRINTF suffix can have formatted text (see example), without - just const strings.
 
